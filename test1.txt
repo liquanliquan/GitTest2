@@ -3,5 +3,3 @@ efgh
 add func1
 code conclick1
 code conclick2
-add test1 
-add test2
